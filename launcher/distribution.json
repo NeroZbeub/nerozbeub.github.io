@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 36772626,
-            "url": "https://cobbledex.fr/servers/CobbleDex-1.21.1/fabricmods/required/cobbledexmod-1.0.0-client.jar",
+            "url": "https://cobbledex.fr/rory/launcher/mods/cobbledexmod-1.0.0-client.jar",
             "MD5": "2d2159001d37a074060adb630a1ed423"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3630342,
-            "url": "https://cobbledex.fr/servers/CobbleDex-1.21.1/fabricmods/required/Cobblemon_MegaShowdown-6.2.4-release-fabric.jar",
+            "url": "https://cobbledex.fr/rory/launcher/mods/Cobblemon_MegaShowdown-6.2.4-release-fabric.jar",
             "MD5": "a3749410a9e3e4057c39a1d61109191a"
           }
         },
